@@ -1,7 +1,7 @@
-## Olá, eu sou a Bree! Bem-Bem-Vindo ao meu Perfil! 👋
+## Olá, eu sou a Bree! Bem-Vindo ao meu Perfil! 👋
 - 🎓 Estudante do 3º Semestre do curso de **Desenvolvimento de Software Multiplataforma** na **Fatec Ogari de Castro Pacheco**.
 - 💻 Apaixonada por **banco de dados** e desenvolvimento de software.
-- 🌱 Atualmente aprendendo: **MySQL, MongoDB, PostgreSQL e modelagem de dados**.
+- 🌱 Atualmente aprendendo: **MySQL e modelagem de dados**.
 - 🚀 Buscando oportunidades para trabalhar com **banco de dados** e contribuir para projetos desafiadores.
 
 ### 🛠️ Habilidades Técnicas
